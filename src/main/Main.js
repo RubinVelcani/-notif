@@ -11,7 +11,7 @@ const Main = () => {
                 <InfoCards icon='Calm' src='./Images/nature.svg' />
                 <InfoCards icon='Appreciate' src='./Images/specialOne.svg' />
                 <InfoCards icon='Enjoy' src='./Images/happy.svg' />
-                <button className='w-full bg-main py-10 mx-auto mt-32 rounded-3xl text-4xl text-white font-bold'>Get started</button>
+                <button className='w-full bg-main py-10 mx-auto mt-32 rounded-3xl text-4xl text-white font-bold'>Your first Notif</button>
             </div>
         </main>
     )
