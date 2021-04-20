@@ -10,6 +10,10 @@ module.exports = {
       'main': '#8690fa',
       'opposite': '#fdf9ce'
     },
+    borderColor: {
+      'main': '#8690fa',
+      'opposite': '#fdf9ce'
+    },
     fontFamily: {
       'nunito': 'Nunito, sans-serif'
     },
